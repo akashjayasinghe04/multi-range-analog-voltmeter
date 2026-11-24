@@ -1,0 +1,73 @@
+Altium Designer Pick and Place Locations
+C:\Users\Public\Documents\Altium\EN2091_Analog_Project\Project Outputs for EN2091_Analog_Project\Pick Place for EN2091_Analog_Project_PCB.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       21/11/26
+Time:       09:04
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"C8","1uF","TopLayer","CAPC2012X135N","83.7516","108.9642","90","1uF 50V X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+"C7","100nF","TopLayer","CAPC2012X95N","60.3411","97.2111","90","100nF 50V X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+"C6","100nF","TopLayer","CAPC2012X95N","73.2690","103.9446","90","100nF 50V X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+"VR2","100","TopLayer","TRIM_3296W-1-101","107.2644","112.1309","0","TRIMMER - 3/8in SQ MT CERMET"
+"VR1","100kO","TopLayer","TRIM_3296W-1-104LF","91.3377","112.2280","0","100kO 25 500mW ±10% ±100ppm/? SIP-3P,9.5x4.8mm Potentiometers, Variable Resistors ROHS"
+"U3","TLO72CP","TopLayer","DIP794W45P254L959H508Q8","66.8896","100.5996","0","Dual Low-Noise JFET-Input General-Purpose Operational Amplifier 8-PDIP 0 to 70
+
+-15V~15V 0?~+70? 1.4mA 100pA 13V/us 18nV/vHz@1kHz 18uV/? 2 3MHz 3mV 65pA 70dB Short-Circuit  Protection?Built-in compensation?Latch-up suppression PDIP-8 FET Input Amplifiers ROHS"
+"U2","TLO72CP","TopLayer","DIP794W45P254L959H508Q8","91.5482","100.5967","0","Dual Low-Noise JFET-Input General-Purpose Operational Amplifier 8-PDIP 0 to 70
+
+-15V~15V 0?~+70? 1.4mA 100pA 13V/us 18nV/vHz@1kHz 18uV/? 2 3MHz 3mV 65pA 70dB Short-Circuit  Protection?Built-in compensation?Latch-up suppression PDIP-8 FET Input Amplifiers ROHS"
+"U1","OP07CP","TopLayer","DIP794W45P254L959H508Q8","108.4126","100.5821","0","Low-offset voltage (0.25 mV) single operational amplifier
+
+-18V~-3V?3V~18V 0.3V/us 0?~+70? 1 1.8nA 10.5nV/vHz@10Hz 120dB 500nV/? 600kHz 60uV 800pA Built-in compensation PDIP-8 Precision Op Amps ROHS"
+"R15","820O","TopLayer","RESAD1100W55L680D260","42.2006","96.5623","90","-55?~+155? 250mW 820O Metal Film Resistor ±1% ±100ppm/? ??,D2.4xL6.3mm Through Hole Resistors ROHS"
+"R14","100kO","TopLayer","RESAD1100W55L680D260","38.0369","101.7546","90","-55?~+155? 100kO 250mW Metal Film Resistor ±1% ±50ppm/? ??,D2.4xL6.3mm Through Hole Resistors ROHS"
+"R13","100kO","TopLayer","RESAD1100W55L680D260","74.5143","83.9345","0","-55?~+155? 100kO 250mW Metal Film Resistor ±1% ±50ppm/? ??,D2.4xL6.3mm Through Hole Resistors ROHS"
+"R12","200kO","TopLayer","RESAD1100W55L680D260","88.3398","83.9846","0","-55?~+155? 200kO 250mW Metal Film Resistor ±1% ±100ppm/? ??,D2.4xL6.3mm Through Hole Resistors ROHS"
+"R11","2.2kO","TopLayer","RESAD1100W55L680D260","66.7008","112.3387","180","-55?~+155? 2.2kO 250mW Metal Film Resistor ±1% ±100ppm/? ??,D2.4xL6.3mm Through Hole Resistors ROHS"
+"R10","20kO","TopLayer","RESAD1100W55L680D260","61.4252","76.7764","270","-55?~+155? 20kO 250mW Metal Film Resistor ±1% ±100ppm/? ??,D2.4xL6.3mm Through Hole Resistors ROHS"
+"R9","2.2kO","TopLayer","RESAD1100W55L680D260","114.5643","85.8642","90","-55?~+155? 2.2kO 250mW Metal Film Resistor ±1% ±100ppm/? ??,D2.4xL6.3mm Through Hole Resistors ROHS"
+"R8","2.7MO","TopLayer","RESAD1100W55L680D260","102.0650","83.9846","0","2.7MO 250V 250mW Metal Film Resistor ±1% ±50ppm/? ??,D2.2xL6.5mm Through Hole Resistors ROHS"
+"R7","4.7kO","TopLayer","RESAD1100W55L680D260","39.4664","78.9070","270","-55?~+155? 250mW 4.7kO Metal Film Resistor ±1% ±50ppm/? ??,D2.4xL6.3mm Through Hole Resistors ROHS"
+"R6","180kO","TopLayer","RESAD1100W55L680D260","56.8626","76.7764","90","180kO 250V 250mW Metal Film Resistor ±1% ±50ppm/? ??,D2.2xL6.5mm Through Hole Resistors ROHS"
+"R5","47kO","TopLayer","RESAD1100W55L680D260","51.3125","112.1747","180","-55?~+155? 250mW 47kO Metal Film Resistor ±1% ±50ppm/? ??,D2.4xL6.3mm Through Hole Resistors ROHS"
+"R4","820O","TopLayer","RESAD1100W55L680D260","92.8554","120.8824","0","-55?~+155? 250mW 820O Metal Film Resistor ±1% ±100ppm/? ??,D2.4xL6.3mm Through Hole Resistors ROHS"
+"R3","10MO","TopLayer","RESAD1100W55L680D260","80.8816","103.9605","90","-55?~+155? 1.6kV 10MO 250mW Metal Film Resistors ±1% ±200ppm/? ??,D2.4xL6.3mm Through Hole Resistors ROHS"
+"R2","10kO","TopLayer","RESAD1100W55L680D260","77.1716","103.9973","90","10kO 250V 250mW Metal Film Resistor ±1% ±50ppm/? ??,D2.2xL6.5mm Through Hole Resistors ROHS"
+"R1","1kO","TopLayer","RESAD1100W55L680D260","121.7563","107.8879","90","-55?~+155? 1kO 250mW Metal Film Resistor ±1% ±50ppm/? ??,D2.4xL6.3mm Through Hole Resistors ROHS"
+"Q3","2N3904","TopLayer","TO92254P460H750-3","57.0586","92.7591","90","1 NPN 100 200mA 300MHz 300mV 40V 50nA 625mW 6V NPN TO-92 Bipolar (BJT) ROHS"
+"Q2","2N3904","TopLayer","TO92254P460H750-3","56.9214","103.6051","90","1 NPN 100 200mA 300MHz 300mV 40V 50nA 625mW 6V NPN TO-92 Bipolar (BJT) ROHS"
+"Q1","2N7002","TopLayer","TRANS_2N7002","116.1739","111.1151","180","MOSFET, SOT-23, N, 60V, 0.28A, 5"
+"J10","B2B-XH-A(LF)(SN)","TopLayer","JST_B2B-XH-A(LF)(SN)","61.3009","121.9003","0","Connector Header Through Hole 2 position 0.098 (2.50mm)"
+"J9","KF301-2P","TopLayer","HANDSON_KF301-2P","30.5664","94.1786","270","2 Pin Terminal Block 5mm Pitch
+
+-30?~+120? 1 1.5 14~22 17A 1x2P 2 250V 2P 5mm Blue Through Hole ??,P=5mm Screw Terminal Blocks ROHS"
+"J8","KF301-2P","TopLayer","HANDSON_KF301-2P","30.5990","108.4345","270","2 Pin Terminal Block 5mm Pitch
+
+-30?~+120? 1 1.5 14~22 17A 1x2P 2 250V 2P 5mm Blue Through Hole ??,P=5mm Screw Terminal Blocks ROHS"
+"J7","KF301-2P","TopLayer","HANDSON_KF301-2P","86.4362","72.7640","0","2 Pin Terminal Block 5mm Pitch
+
+-30?~+120? 1 1.5 14~22 17A 1x2P 2 250V 2P 5mm Blue Through Hole ??,P=5mm Screw Terminal Blocks ROHS"
+"J6","KF301-5.0-3P-2P","TopLayer","HANDSON_KF301-3P","45.8470","121.9200","180","-30?~+120? 1 1.5 14~22 17A 1x3P 250V 3 3P 5mm Blue Through Hole ??,P=5mm Screw Terminal Blocks ROHS"
+"J5","KF301-2P","TopLayer","HANDSON_KF301-2P","73.8631","72.7139","0","2 Pin Terminal Block 5mm Pitch
+
+-30?~+120? 1 1.5 14~22 17A 1x2P 2 250V 2P 5mm Blue Through Hole ??,P=5mm Screw Terminal Blocks ROHS"
+"J4","KF301-5.0-3P-2P","TopLayer","HANDSON_KF301-3P","101.0223","72.8141","0","-30?~+120? 1 1.5 14~22 17A 1x3P 250V 3 3P 5mm Blue Through Hole ??,P=5mm Screw Terminal Blocks ROHS"
+"J3","KF301-2P","TopLayer","HANDSON_KF301-2P","107.9811","121.9308","180","2 Pin Terminal Block 5mm Pitch
+
+-30?~+120? 1 1.5 14~22 17A 1x2P 2 250V 2P 5mm Blue Through Hole ??,P=5mm Screw Terminal Blocks ROHS"
+"J2","B2B-XH-A(LF)(SN)","TopLayer","JST_B2B-XH-A(LF)(SN)","120.8639","84.2388","270","Connector Header Through Hole 2 position 0.098 (2.50mm)"
+"J1","B2B-XH-A(LF)(SN)","TopLayer","JST_B2B-XH-A(LF)(SN)","30.4378","81.1227","90","Connector Header Through Hole 2 position 0.098 (2.50mm)"
+"D3","1N4148","TopLayer","AXIAL_017AG_T26_ONS","49.5374","87.4231","270","-55?~+175?@(Tj) 1 Independent 100V 1V@10mA 200mA 4A 4ns 500mW 5uA@75V DO-35 Switching Diodes ROHS"
+"D2","1N4148","TopLayer","AXIAL_017AG_T26_ONS","46.1961","88.8398","90","-55?~+175?@(Tj) 1 Independent 100V 1V@10mA 200mA 4A 4ns 500mW 5uA@75V DO-35 Switching Diodes ROHS"
+"D1","1N4148","TopLayer","AXIAL_017AG_T26_ONS","93.0010","92.0584","180","-55?~+175?@(Tj) 1 Independent 100V 1V@10mA 200mA 4A 4ns 500mW 5uA@75V DO-35 Switching Diodes ROHS"
+"C5","1uF","TopLayer","CAPC2012X135N","97.9036","111.3852","90","1uF 50V X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+"C4","100nF","TopLayer","CAPC2012X95N","84.9856","97.2029","90","100nF 50V X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+"C3","100nF","TopLayer","CAPC2012X95N","98.1086","103.9755","90","100nF 50V X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+"C2","100nF","TopLayer","CAPC2012X95N","101.9165","97.2016","90","100nF 50V X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+"C1","100nF","TopLayer","CAPC2012X95N","115.1453","101.2595","90","100nF 50V X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"

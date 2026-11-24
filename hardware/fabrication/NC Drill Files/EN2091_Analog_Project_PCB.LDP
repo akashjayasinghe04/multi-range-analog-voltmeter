@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\Public\Documents\Altium\EN2091_Analog_Project\EN2091_Analog_Project_PCB.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=en2091_analog_project_pcb-plated.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=en2091_analog_project_pcb-nonplated.txt|DrillLayers=gtl,gbl

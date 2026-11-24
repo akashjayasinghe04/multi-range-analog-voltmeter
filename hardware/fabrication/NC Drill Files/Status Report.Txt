@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [EN2091_Analog_Project.PrjPcb]
+   Generated File[EN2091_Analog_Project_PCB-Plated.TXT]
+   Generated File[EN2091_Analog_Project_PCB-NonPlated.TXT]
+   Generated File[EN2091_Analog_Project_PCB.LDP]
+   Generated File[EN2091_Analog_Project_PCB.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 8:59:51 AM On 11/21/2026

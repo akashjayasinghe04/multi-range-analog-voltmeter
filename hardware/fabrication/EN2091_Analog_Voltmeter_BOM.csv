@@ -1,0 +1,36 @@
+Name,Description,Designator,Footprint,LibRef,Quantity,LCSC Part Number
+
+"100nF","100nF 50V X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS","C1, C2, C3, C4, C6, C7","CAPC2012X95N","CL21B104KBCNNNC","6","C1711"
+"1uF","1uF 50V X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS","C5, C8","CAPC2012X135N","CL21B105KBFNNNE","2","C28323"
+"1N4148","-55?~+175?@(Tj) 1 Independent 100V 1V@10mA 200mA 4A 4ns 500mW 5uA@75V DO-35 Switching Diodes ROHS","D1, D2, D3","AXIAL_017AG_T26_ONS","1N4148","3","C258182"
+"B2B-XH-A(LF)(SN)","Connector Header Through Hole 2 position 0.098 (2.50mm)","J1, J2, J10","JST_B2B-XH-A(LF)(SN)","B2B-XH-A(LF)(SN)","3","C51940134"
+"KF301-2P","2 Pin Terminal Block 5mm Pitch
+
+-30?~+120? 1 1.5 14~22 17A 1x2P 2 250V 2P 5mm Blue Through Hole ??,P=5mm Screw Terminal Blocks ROHS","J3, J5, J7, J8, J9","HANDSON_KF301-2P","KF301-2P","5","C474881"
+"KF301-5.0-3P-2P","-30?~+120? 1 1.5 14~22 17A 1x3P 250V 3 3P 5mm Blue Through Hole ??,P=5mm Screw Terminal Blocks ROHS","J4, J6","HANDSON_KF301-3P","KF301-5.0-3P","2","C474882"
+"2N7002","MOSFET, SOT-23, N, 60V, 0.28A, 5|, 150°C
+
+1 N-channel 115mA 2.5V 225mW 25pF 50pF 5pF 5O@10V 60V N-Channel ±20V SOT-23 MOSFETs ROHS","Q1","TRANS_2N7002","2N7002","1","C8545"
+"2N3904","1 NPN 100 200mA 300MHz 300mV 40V 50nA 625mW 6V NPN TO-92 Bipolar (BJT) ROHS","Q2, Q3","TO92254P460H750-3","2N3904","2","C118538"
+"1kO","-55?~+155? 1kO 250mW Metal Film Resistor ±1% ±50ppm/? ??,D2.4xL6.3mm Through Hole Resistors ROHS","R1","RESAD1100W55L680D260","MFR-25FTE52-1K","1","C172978"
+"10kO","10kO 250V 250mW Metal Film Resistor ±1% ±50ppm/? ??,D2.2xL6.5mm Through Hole Resistors ROHS","R2","RESAD1100W55L680D260","MFR-25FTE52-10K","1","C172967"
+"10MO","-55?~+155? 1.6kV 10MO 250mW Metal Film Resistors ±1% ±200ppm/? ??,D2.4xL6.3mm Through Hole Resistors ROHS","R3","RESAD1100W55L680D260","HHV-25FR-52-10M","1","C1741175"
+"820O","-55?~+155? 250mW 820O Metal Film Resistor ±1% ±100ppm/? ??,D2.4xL6.3mm Through Hole Resistors ROHS","R4, R15","RESAD1100W55L680D260","MFR-25FRF52-820R","2","C1743583"
+"47kO","-55?~+155? 250mW 47kO Metal Film Resistor ±1% ±50ppm/? ??,D2.4xL6.3mm Through Hole Resistors ROHS","R5","RESAD1100W55L680D260","MFR-25FTE52-47K","1","C173021"
+"180kO","180kO 250V 250mW Metal Film Resistor ±1% ±50ppm/? ??,D2.2xL6.5mm Through Hole Resistors ROHS","R6","RESAD1100W55L680D260","MFR0W4F1803A50","1","C58666"
+"4.7kO","-55?~+155? 250mW 4.7kO Metal Film Resistor ±1% ±50ppm/? ??,D2.4xL6.3mm Through Hole Resistors ROHS","R7","RESAD1100W55L680D260","MFR-25FTE52-4K7","1","C173023"
+"2.7MO","2.7MO 250V 250mW Metal Film Resistor ±1% ±50ppm/? ??,D2.2xL6.5mm Through Hole Resistors ROHS","R8","RESAD1100W55L680D260","MF0W4FF2704A50","1","C2991790"
+"2.2kO","-55?~+155? 2.2kO 250mW Metal Film Resistor ±1% ±100ppm/? ??,D2.4xL6.3mm Through Hole Resistors ROHS","R9, R11","RESAD1100W55L680D260","MFR-25FTF52-2K2","2","C914822"
+"20kO","-55?~+155? 20kO 250mW Metal Film Resistor ±1% ±100ppm/? ??,D2.4xL6.3mm Through Hole Resistors ROHS","R10","RESAD1100W55L680D260","MFR-25FBF52-20K","1","C1364283"
+"200kO","-55?~+155? 200kO 250mW Metal Film Resistor ±1% ±100ppm/? ??,D2.4xL6.3mm Through Hole Resistors ROHS","R12","RESAD1100W55L680D260","MFR-25FBF52-200K","1","C1364207"
+"100kO","-55?~+155? 100kO 250mW Metal Film Resistor ±1% ±50ppm/? ??,D2.4xL6.3mm Through Hole Resistors ROHS","R13, R14","RESAD1100W55L680D260","MFR-25FTE52-100K","2","C172965"
+"OP07CP","Low-offset voltage (0.25 mV) single operational amplifier
+
+-18V~-3V?3V~18V 0.3V/us 0?~+70? 1 1.8nA 10.5nV/vHz@10Hz 120dB 500nV/? 600kHz 60uV 800pA Built-in compensation PDIP-8 Precision Op Amps ROHS","U1","DIP794W45P254L959H508Q8","OP07CP","1","C5224"
+"TLO72CP","Dual Low-Noise JFET-Input General-Purpose Operational Amplifier 8-PDIP 0 to 70
+
+-15V~15V 0?~+70? 1.4mA 100pA 13V/us 18nV/vHz@1kHz 18uV/? 2 3MHz 3mV 65pA 70dB Short-Circuit  Protection?Built-in compensation?Latch-up suppression PDIP-8 FET Input Amplifiers ROHS","U2, U3","DIP794W45P254L959H508Q8","TL072CPE4","2","C7236"
+"100kO","100kO 25 500mW ±10% ±100ppm/? SIP-3P,9.5x4.8mm Potentiometers, Variable Resistors ROHS","VR1","TRIM_3296W-1-104LF","3296W-1-104LF","1","C48084"
+"100","TRIMMER - 3/8in SQ MT CERMET | Bourns 3296W-1-101
+
+100O 30 500mW ±10% ±250ppm/? ??-3P,9.5x4.9mm Potentiometers, Variable Resistors ROHS","VR2","TRIM_3296W-1-101","3296W-1-101","1","C118961"
