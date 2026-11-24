@@ -1,0 +1,23 @@
+# Altium Designer temporary & preview files
+History/
+__Previews/
+Project Logs*/
+*.SchDocPreview
+*.PcbDocPreview
+*.PrjPcbStructure
+*.LOG
+*.bak
+
+# LTspice generated outputs
+*.raw
+*.log
+*.op.raw
+*.fft
+
+# SolidWorks temporary lock files
+~$*.SLD*
+~$*.sld*
+
+# OS clutter
+Thumbs.db
+.DS_Store
