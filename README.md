@@ -34,7 +34,7 @@ A battery-powered, multi-range electronic analog voltmeter measuring **0 to 30 V
 
 ## PCB & Mechanical Implementation
 
-![3D Render and Fabricated PCB](images/multi-range-analog-voltmeter_image_7.jpg)
+![3D Render and Fabricated PCB](images/multi-range-analog-voltmeter_image_7.png)
 
 * **PCB Layout (`hardware/altium/`):** 2-layer 1.6 mm FR-4 (100 × 60 mm), top and bottom stitched ground pours, 12 mil signal / 24 mil power traces, edge-mounted `KF301` screw terminals and `JST-XH` headers, mixed THT/0805 SMD assembly.
 * **Enclosure (`mechanical/solidworks/`):** 108 × 60 × 143 mm PLA enclosure modeled in SolidWorks around the imported Altium STEP model for exact M3 stand-off and front-panel cutout alignment.
