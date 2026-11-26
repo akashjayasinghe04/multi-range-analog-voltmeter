@@ -59,7 +59,7 @@ Developed by **Team Circuit Dynamics** for *EN2091 Laboratory Practice and Proje
 
 | Member | Index No. | Contributions |
 | :--- | :--- | :--- |
-| Akash Jayasinghe (H. R. A. I. Jayasinghe) | 240275K | Schematic Design, PCB Design (Altium Designer), Soldering, Testing & Debugging |
-| T. U. Dambarage | 240082P | Schematic Design, Enclosure Design (SolidWorks), Component Procurement, Testing & Debugging |
-| S. N. Jayasooriya | 240284L | Schematic Design, PCB Design (Altium Designer), Documentation, Testing & Debugging |
-| A. Y. D. Perera | 240495J | Schematic Design, Enclosure Design (SolidWorks), LTspice Simulation, Testing & Debugging |
+| Akash Jayasinghe | 240275K | Schematic Design, PCB Design (Altium Designer), Soldering, Testing & Debugging |
+| Tharusha Dambarage | 240082P | Schematic Design, Enclosure Design (SolidWorks), Component Procurement, Testing & Debugging |
+| Sajana Jayasooriya | 240284L | Schematic Design, PCB Design (Altium Designer), Documentation, Testing & Debugging |
+| Yevin Perera | 240495J | Schematic Design, Enclosure Design (SolidWorks), LTspice Simulation, Testing & Debugging |
